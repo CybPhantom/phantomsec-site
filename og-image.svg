@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07090d"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9b7cff"/><stop offset="1" stop-color="#38d4ff"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7c4dff" stop-opacity=".28"/><stop offset="1" stop-color="#7c4dff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="980" cy="80" r="390" fill="url(#glow)"/>
+  <g transform="translate(92 84)">
+    <rect width="86" height="86" rx="23" fill="#0b0e14" stroke="url(#brand)" stroke-width="4"/>
+    <path d="M22 65V40a21 21 0 0142 0v25l-5-5-5 5-5-5-5 5-5-5-5 5-5-5-7 5z" fill="url(#brand)"/>
+    <circle cx="37" cy="41" r="4" fill="#0b0e14"/><circle cx="52" cy="41" r="4" fill="#0b0e14"/>
+  </g>
+  <text x="200" y="130" fill="#f1f5f9" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="800">PhantomKit</text>
+  <text x="200" y="163" fill="#94a3b8" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="2">BY CYBPHANTOM</text>
+  <text x="92" y="292" fill="#f1f5f9" font-family="Inter,Arial,sans-serif" font-size="58" font-weight="800">Authorized Security Assessment</text>
+  <text x="92" y="362" fill="url(#brand)" font-family="Inter,Arial,sans-serif" font-size="58" font-weight="800">Reporting &amp; Remediation</text>
+  <text x="94" y="430" fill="#94a3b8" font-family="Inter,Arial,sans-serif" font-size="25">Offline-first · Customer-operated · Executive-ready</text>
+  <rect x="92" y="492" width="492" height="52" rx="26" fill="#2a2413" stroke="#f4c65d" stroke-opacity=".55"/>
+  <text x="118" y="526" fill="#ffe39a" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="700">SIGNED CUSTOMER RELEASE IN PREPARATION</text>
+</svg>
